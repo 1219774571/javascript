@@ -1,7 +1,0 @@
-async 立即下载脚本，但不妨碍其他操作
-charset  指定代码的字符集
-defer	延迟文档被完全解析和显示后执行
-language 已废弃
-src  脚本的外部文件
-type  language的替代属性，表示编写代码使用的脚本语言的内容类型
-
