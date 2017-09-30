@@ -4,6 +4,6 @@ function insertAfter(newElement,targetElement){
         parent.appendChild(newElement)
     }
     else{
-        parent.insertBefore(newElement,targetElement.nextSibling)
+        parent.insertBefore(newElement,targetElement.nextSibling);
     }
 }
